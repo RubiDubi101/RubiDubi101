@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Nothing can nourish the SOUL but LIGHT." — *Rumi*
+> "Never Worry About Numbers. Help One Person At A Time And Always Start With The Person Nearest You." — *Mother Teresa*
 <!-- QUOTE_END -->
