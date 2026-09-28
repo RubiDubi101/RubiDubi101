@@ -1,5 +1,7 @@
 This is ruby's read me! Hello!
 
+
+<pre>
  _   _         _  _          _   __ _
 | | | |  ___  | || |  ___   | | / /(_)  _     _
 | |_| | / _ \ | || | / _ \  | |/ /  _ _| |_ _| |_  _  _
@@ -18,3 +20,4 @@ This is ruby's read me! Hello!
                    /  \/  (___)  \/  \
                    \__(  o     o  )__/
 
+<pre>
