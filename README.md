@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Never Worry About Numbers. Help One Person At A Time And Always Start With The Person Nearest You." — *Mother Teresa*
+> "There is a voice that doesn't use words. Listen." — *Rumi*
 <!-- QUOTE_END -->
