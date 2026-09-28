@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "A Place For Everything, Everything In Its Place." — *Benjamin Franklin*
+> "Nothing can nourish the SOUL but LIGHT." — *Rumi*
 <!-- QUOTE_END -->
