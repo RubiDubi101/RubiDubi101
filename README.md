@@ -23,5 +23,5 @@ This is ruby's read me! Hello!
 <pre>
 
 <!-- QUOTE_START -->
-> "I was saying “I'm the greatest” long before I believed it." — *Muhammad Ali*
+> "A Place For Everything, Everything In Its Place." — *Benjamin Franklin*
 <!-- QUOTE_END -->
