@@ -23,5 +23,5 @@ This is ruby's read me! Hello!
 <pre>
 
 <!-- QUOTE_START -->
-"Stay hungry, stay foolish." - Steve Jobs
+> "I was saying “I'm the greatest” long before I believed it." — *Muhammad Ali*
 <!-- QUOTE_END -->
