@@ -21,3 +21,7 @@ This is ruby's read me! Hello!
                    \__(  o     o  )__/
 
 <pre>
+
+<!-- QUOTE_START -->
+"Stay hungry, stay foolish." - Steve Jobs
+<!-- QUOTE_END -->
