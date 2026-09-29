@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "There is a voice that doesn't use words. Listen." — *Rumi*
+> "If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up." — *Hunter S. Thompson*
 <!-- QUOTE_END -->
