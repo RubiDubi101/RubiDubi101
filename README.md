@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled. You feel it, don't you?" — *Rumi*
+> "Success is when your signature becomes an autograph." — *Abdul Kalam*
 <!-- QUOTE_END -->
