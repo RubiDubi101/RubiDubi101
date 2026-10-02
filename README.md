@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Success is when your signature becomes an autograph." — *Abdul Kalam*
+> "He Who Avoids Complaint Invites Happiness." — *Abu Bakr*
 <!-- QUOTE_END -->
