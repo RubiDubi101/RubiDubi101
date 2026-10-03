@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "He Who Avoids Complaint Invites Happiness." — *Abu Bakr*
+> "I'm most proud of my family." — *Muhammad Ali*
 <!-- QUOTE_END -->
