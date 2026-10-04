@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "I'm most proud of my family." — *Muhammad Ali*
+> "Plants And Minerals Are Bound To Predestination. The Faithful Is Only Bound To The Divine Orders." — *Muhammad Iqbal*
 <!-- QUOTE_END -->
