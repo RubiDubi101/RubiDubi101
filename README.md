@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Plants And Minerals Are Bound To Predestination. The Faithful Is Only Bound To The Divine Orders." — *Muhammad Iqbal*
+> "Follow the way of life, which the Holy Prophet has shown you, for verily that is the right path." — *Abu Bakr (R.A)*
 <!-- QUOTE_END -->
