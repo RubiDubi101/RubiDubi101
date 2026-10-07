@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Don'T Be Distracted By Criticism. Remember ~ The Only Taste Of Success Some People Have Is When They Take A Bite Out Of You." — *Zig Ziglar*
+> "You have been a prisoner of a little pond I am the ocean and its turbulent flood Come merge with me leave this world of ignorance." — *Rumi*
 <!-- QUOTE_END -->
