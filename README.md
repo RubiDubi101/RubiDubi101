@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "You have been a prisoner of a little pond I am the ocean and its turbulent flood Come merge with me leave this world of ignorance." — *Rumi*
+> "India should walk on her own shadow - we must have our own development model." — *Abdul Kalam*
 <!-- QUOTE_END -->
