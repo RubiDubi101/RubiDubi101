@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "India should walk on her own shadow - we must have our own development model." — *Abdul Kalam*
+> "Developing nations want to become developed nations." — *Abdul Kalam*
 <!-- QUOTE_END -->
