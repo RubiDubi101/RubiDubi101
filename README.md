@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Developing nations want to become developed nations." — *Abdul Kalam*
+> "The Secret To Humor Is Surprise." — *Aristotle*
 <!-- QUOTE_END -->
