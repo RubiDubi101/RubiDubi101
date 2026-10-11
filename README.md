@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "The Secret To Humor Is Surprise." — *Aristotle*
+> "Courtesy costs nothing, but buys everything." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
