@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Courtesy costs nothing, but buys everything." — *Ali ibn Abi Talib (R.A)*
+> "Don't forget your own self while preaching to others." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
