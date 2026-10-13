@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Don't forget your own self while preaching to others." — *Umar ibn Al-Khattāb (R.A)*
+> "Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed." — *Ali Ibn Abi Talib*
 <!-- QUOTE_END -->
