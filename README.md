@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed." — *Ali Ibn Abi Talib*
+> "Do not be misled by appearances for these are apt to be deceptive." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
