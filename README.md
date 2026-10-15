@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Do not be misled by appearances for these are apt to be deceptive." — *Ali ibn Abi Talib (R.A)*
+> "You Drown Not By Falling Into A River, But By Staying Submerged In It." — *Paulo Coelho*
 <!-- QUOTE_END -->
