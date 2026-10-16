@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "You Drown Not By Falling Into A River, But By Staying Submerged In It." — *Paulo Coelho*
+> "Speak a new language so that the world will be a new world." — *Rumi*
 <!-- QUOTE_END -->
