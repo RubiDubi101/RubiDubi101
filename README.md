@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Speak a new language so that the world will be a new world." — *Rumi*
+> "If You Are Out To Describe The Truth, Leave Elegance To The Tailor." — *Albert Einstein*
 <!-- QUOTE_END -->
