@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "If You Are Out To Describe The Truth, Leave Elegance To The Tailor." — *Albert Einstein*
+> "The Very Ink With Which History Is Written Is Merely Fluid Prejudice." — *Mark Twain*
 <!-- QUOTE_END -->
