@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "The Very Ink With Which History Is Written Is Merely Fluid Prejudice." — *Mark Twain*
+> "The lamps are different, but the Light is the same. One matter, one energy, one Light, one Light-mind, endlessly emanating all things." — *Rumi*
 <!-- QUOTE_END -->
