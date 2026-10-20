@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "The lamps are different, but the Light is the same. One matter, one energy, one Light, one Light-mind, endlessly emanating all things." — *Rumi*
+> "A Riot Is At Bottom The Language Of The Unheard." — *Martin Luther King, Jr.*
 <!-- QUOTE_END -->
