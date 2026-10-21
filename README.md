@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "A Riot Is At Bottom The Language Of The Unheard." — *Martin Luther King, Jr.*
+> "Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions." — *Muhammad Ali*
 <!-- QUOTE_END -->
