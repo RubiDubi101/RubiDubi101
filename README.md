@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions." — *Muhammad Ali*
+> "Man Is Descended From A Hairy, Tailed Quadruped, Probably Arboreal In Its Habits." — *Charles Darwin*
 <!-- QUOTE_END -->
