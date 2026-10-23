@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Man Is Descended From A Hairy, Tailed Quadruped, Probably Arboreal In Its Habits." — *Charles Darwin*
+> "Loving one another is half of wisdom." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
