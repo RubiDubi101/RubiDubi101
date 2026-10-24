@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Loving one another is half of wisdom." — *Ali ibn Abi Talib (R.A)*
+> "Fear Allah, for He alone lives; all other things are liable to perish." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
