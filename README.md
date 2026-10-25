@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Fear Allah, for He alone lives; all other things are liable to perish." — *Umar ibn Al-Khattāb (R.A)*
+> "The true believer is rewarded in every thing, even in affliction." — *Abu Bakr (R.A)*
 <!-- QUOTE_END -->
