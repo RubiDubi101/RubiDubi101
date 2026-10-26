@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "The true believer is rewarded in every thing, even in affliction." — *Abu Bakr (R.A)*
+> "No boxer in the history of boxing has had Parkinson's. There's no injury in my brain that suggests that the illness came from boxing." — *Muhammad Ali*
 <!-- QUOTE_END -->
