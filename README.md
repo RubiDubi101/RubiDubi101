@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "No boxer in the history of boxing has had Parkinson's. There's no injury in my brain that suggests that the illness came from boxing." — *Muhammad Ali*
+> "Fear him, whom you hate." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
