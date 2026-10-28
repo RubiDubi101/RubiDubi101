@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Fear him, whom you hate." — *Umar ibn Al-Khattāb (R.A)*
+> "My view is that at a younger age your optimism is more and you have more imagination etc. You have less bias." — *Abdul Kalam*
 <!-- QUOTE_END -->
