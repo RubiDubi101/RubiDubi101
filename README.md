@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "My view is that at a younger age your optimism is more and you have more imagination etc. You have less bias." — *Abdul Kalam*
+> "Do not let your difficulties fill you with anxiety, after all it is only in the darkest nights that stars shine more brightly." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
