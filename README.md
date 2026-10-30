@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Do not let your difficulties fill you with anxiety, after all it is only in the darkest nights that stars shine more brightly." — *Ali ibn Abi Talib (R.A)*
+> "Whenever You Find Yourself On The Side Of The Majority, It Is Time To Pause And Reflect." — *Mark Twain*
 <!-- QUOTE_END -->
