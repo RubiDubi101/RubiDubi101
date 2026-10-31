@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Whenever You Find Yourself On The Side Of The Majority, It Is Time To Pause And Reflect." — *Mark Twain*
+> "I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want." — *Muhammad Ali*
 <!-- QUOTE_END -->
