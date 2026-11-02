@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "His hands can't hit what his eyes can't see." — *Muhammad Ali*
+> "Once the seed of faith takes root, it cannot be blown away, even by the strongest wind - Now that's a blessing." — *Rumi*
 <!-- QUOTE_END -->
