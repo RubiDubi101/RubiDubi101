@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Once the seed of faith takes root, it cannot be blown away, even by the strongest wind - Now that's a blessing." — *Rumi*
+> "Solitude is better than the society of evil persons." — *Abu Bakr (R.A)*
 <!-- QUOTE_END -->
