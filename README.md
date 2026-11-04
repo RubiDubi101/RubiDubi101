@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Solitude is better than the society of evil persons." — *Abu Bakr (R.A)*
+> "Do not follow vain desires; for verily he who prospers is preserved from lust, greed and anger." — *Abu Bakr (R.A)*
 <!-- QUOTE_END -->
