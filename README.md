@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Do not follow vain desires; for verily he who prospers is preserved from lust, greed and anger." — *Abu Bakr (R.A)*
+> "All God's creatures are His family; and he is the most beloved of God who tries to do most good to God's creatures." — *Abdul Kalam*
 <!-- QUOTE_END -->
