@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "All God's creatures are His family; and he is the most beloved of God who tries to do most good to God's creatures." — *Abdul Kalam*
+> "Associating with the wise and the knowledgeable people adds to the prestige of a person." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
