@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Associating with the wise and the knowledgeable people adds to the prestige of a person." — *Ali ibn Abi Talib (R.A)*
+> "Uneasy Lies The Head That Wears A Crown." — *William Shakespeare*
 <!-- QUOTE_END -->
