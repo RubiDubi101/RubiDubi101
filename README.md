@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Uneasy Lies The Head That Wears A Crown." — *William Shakespeare*
+> "A man may be as straight as an arrow, but even then he will have some critics." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
