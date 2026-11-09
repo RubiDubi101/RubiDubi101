@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "A man may be as straight as an arrow, but even then he will have some critics." — *Umar ibn Al-Khattāb (R.A)*
+> "Only Two Things Are Infinite, The Universe And Human Stupidity, And I'M Not Sure About The Former." — *Albert Einstein*
 <!-- QUOTE_END -->
