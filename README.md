@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Only Two Things Are Infinite, The Universe And Human Stupidity, And I'M Not Sure About The Former." — *Albert Einstein*
+> "It'S Fine To Celebrate Success But It Is More Important To Heed The Lessons Of Failure." — *Bill Gates*
 <!-- QUOTE_END -->
