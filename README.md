@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "It'S Fine To Celebrate Success But It Is More Important To Heed The Lessons Of Failure." — *Bill Gates*
+> "O! Let Me Not Be Mad, Not Mad, Sweet Heaven; Keep Me In Temper; I Would Not Be Mad!" — *William Shakespeare*
 <!-- QUOTE_END -->
