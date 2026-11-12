@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "O! Let Me Not Be Mad, Not Mad, Sweet Heaven; Keep Me In Temper; I Would Not Be Mad!" — *William Shakespeare*
+> "I Hear And I Forget. I See And I Remember. I Do And I Understand." — *Confucius*
 <!-- QUOTE_END -->
