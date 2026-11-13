@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "I Hear And I Forget. I See And I Remember. I Do And I Understand." — *Confucius*
+> "My toughest opponent has always been me." — *Muhammad Ali*
 <!-- QUOTE_END -->
