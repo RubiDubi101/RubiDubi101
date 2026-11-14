@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "My toughest opponent has always been me." — *Muhammad Ali*
+> "There is no rest for the person who has envy, and there is no love for the person who has bad manners." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
