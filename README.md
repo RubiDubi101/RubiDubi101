@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "There is no rest for the person who has envy, and there is no love for the person who has bad manners." — *Ali ibn Abi Talib (R.A)*
+> "Dogs Never Bite Me. Just Humans." — *Marilyn Monroe*
 <!-- QUOTE_END -->
