@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Dogs Never Bite Me. Just Humans." — *Marilyn Monroe*
+> "Now you see me, now you don't. George thinks he will, but I know he won't!" — *Muhammad Ali*
 <!-- QUOTE_END -->
