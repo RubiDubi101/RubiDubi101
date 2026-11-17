@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Now you see me, now you don't. George thinks he will, but I know he won't!" — *Muhammad Ali*
+> "Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing." — *Theodore Roosevelt*
 <!-- QUOTE_END -->
