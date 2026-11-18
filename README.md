@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing." — *Theodore Roosevelt*
+> "The criterion of action is that todays work should not be deferred till the following day." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
