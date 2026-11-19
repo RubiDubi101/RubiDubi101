@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "The criterion of action is that todays work should not be deferred till the following day." — *Umar ibn Al-Khattāb (R.A)*
+> "People of the world don't look at themselves, and so they blame one another." — *Rumi*
 <!-- QUOTE_END -->
