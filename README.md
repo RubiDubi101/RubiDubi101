@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "People of the world don't look at themselves, and so they blame one another." — *Rumi*
+> "Denial Ain'T Just A River In Egypt." — *Mark Twain*
 <!-- QUOTE_END -->
