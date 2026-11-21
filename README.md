@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Denial Ain'T Just A River In Egypt." — *Mark Twain*
+> "Champions have to have the skill and the will. But the will must be stronger than the skill." — *Muhammad Ali*
 <!-- QUOTE_END -->
