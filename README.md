@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Champions have to have the skill and the will. But the will must be stronger than the skill." — *Muhammad Ali*
+> "I Never Did A Day'S Work In My Life. It Was All Fun." — *Thomas A. Edison*
 <!-- QUOTE_END -->
