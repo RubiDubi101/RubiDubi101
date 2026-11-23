@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "I Never Did A Day'S Work In My Life. It Was All Fun." — *Thomas A. Edison*
+> "These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People." — *Abraham Lincoln*
 <!-- QUOTE_END -->
