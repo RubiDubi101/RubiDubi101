@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "I Wish They Would Only Take Me As I Am." — *Vincent Van Gogh*
+> "When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps." — *Confucius*
 <!-- QUOTE_END -->
