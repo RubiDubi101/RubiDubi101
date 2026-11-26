@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps." — *Confucius*
+> "Our Peace Shall Stand As Firm As Rocky Mountains." — *William Shakespeare*
 <!-- QUOTE_END -->
