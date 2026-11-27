@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "Our Peace Shall Stand As Firm As Rocky Mountains." — *William Shakespeare*
+> "I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love." — *Mother Teresa*
 <!-- QUOTE_END -->
