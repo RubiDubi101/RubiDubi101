@@ -53,5 +53,5 @@ Ruby's Personal Repo <3
 <pre>
 
 <!-- QUOTE_START -->
-> "I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love." — *Mother Teresa*
+> "As long as you are pure of heart, you speak the truth." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
